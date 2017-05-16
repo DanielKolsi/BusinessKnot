@@ -1,0 +1,54 @@
+
+
+1) tiimi & yritys
+	1.1 ketkä mukana?
+		Henkilöt!
+	1.2 prosenttiosuudet
+	1.3 roolit
+	1.4 intensiteetit
+	1.5	webbisivu tehtävä pian?!
+	1.6 yrityksen nimi ja perustaminen ?!
+2) markkinointi
+	2.1 kenelle markkinoidaan?		
+	2.2 mistä käyttäjät?
+	2.3 LinkedIn plugin? 
+	2.4 kontaktit
+		Kiinnostuneet käyttäjät ja yhteistyökumppanit?
+	2.5 Launch
+		Milloin ja millä tavalla?
+	2.6 mainostus
+	2.7 yhteistyökumppanit & kontaktit	
+			
+3) tekniikka
+  3.1 Android app 
+  
+  Tämän hetkinen tilanne, on olemassa FaceOP Beta. Kuinka ja minkälaisella
+  aikataululla se "taipuu" haluttuun "kärkisovellukseen"? Mitä sovellukselta
+  vaaditaan: CASE-study.
+   
+  Pitäisikö ensin kirjoittaa ns. White paper tuotteesta, jonka perusteella
+  työstetään proto / beta?
+  
+  Kuinka monen sadan tunnin tehokasta koodaustyötä tämä vaatii?
+  	3.1.1	arkkitehtuuri	  
+  		
+  3.2 frontend
+  3.3 backend
+  	3.3.1 database, SQL vs. NoSQL
+  		3.3.1.1 MySQL
+  	
+  3.4 web tekniikat
+  	3.4.1 ReactJS (native)
+  	3.4.2 AngularJS
+    3.4.3 NodeJS (back-end)
+  3.5 AI 
+  3.6 In-App-Purchases API
+  
+4) aikataulu 
+5) palaveeraus
+	5.1 tekniikat (Skype)
+	5.2 säännöllinen aika?
+	5.3 pöytäkirjat?
+	5.4 päätökset kirjallisina
+6) rahoitus
+ 	6.1 EXIT-strategia (firman myynti?!)
