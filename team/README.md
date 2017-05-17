@@ -1,1 +1,1 @@
-team related information and files (sensitive data omitted)
+team work related information and files (sensitive data omitted)
